@@ -47,6 +47,8 @@ Run the MCP server in claude desktop or other MCP clients with this config:
   }
 }
 ```
+**Be sure to change the directory where the MCP code is stored!!**
+
 
 Then interact with it through any MCP client. Example queries:
 - "Calculate hardware needs for 1M documents with 1536-dim vectors and some string fields"
